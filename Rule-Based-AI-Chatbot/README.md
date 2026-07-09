@@ -76,7 +76,7 @@ Rule-Based-AI-Chatbot/
 From the project root:
 
 ```bash
-python chatbot.py
+python .\Rule-Based-AI-Chatbot\chatbot.py
 ```
 
 Type your messages at the `You:` prompt. Use `exit`, `quit`, or `bye` to leave.
